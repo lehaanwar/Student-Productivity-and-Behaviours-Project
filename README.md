@@ -6,15 +6,23 @@
 
 
 ## Dataset Content
-* Describe your dataset. Choose a dataset of reasonable size to avoid exceeding the repository's maximum size of 100Gb.
+I chose my own dataset called Student Productivity & Behavior which I found on Kaggle, please see the link below;
+https://www.kaggle.com/datasets/algozee/student-productivity-and-behavior-dataset-20k
+
+The reason I chose this Dataset and not the from one of the ones that were provided to us was beacause I related to this Datset. I have gone back into education after a long period of time and I wanted to know how different factors and lifestyles can have an effect on students. 
 
 
 ## Business Requirements
-* Describe your business requirements
-
+1.Identify key factors that can cause high stress levels and analyse how these will affect a student’s final grade, focus and productivity scores.
+2.How do patterns of phone usage and social media consumption affect students’ focus and overall productivity scores?
+3.How do variations in sleep duration, exercise frequency and wellness practices influence a students’ stress levels?
+4.What is the relationship between students’ daily study hours and attendance with their final grades?
 
 ## Hypothesis and how to validate?
-* List here your project hypothesis(es) and how you envision validating it (them) 
+1.Students with higher attendance rates are more likely to achieve a higher final grade.
+2.Increased social media content is to negatively influence a students’ focus and productivity levels.
+3.Higher levels of Sleep, exercise and regular breaks will reduce the stress levels among students.
+
 
 ## Project Plan
 * Outline the high-level steps taken for the analysis.
