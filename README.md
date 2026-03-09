@@ -21,7 +21,7 @@ The reason I chose this Dataset and not the from one of the ones that were provi
 ## Hypothesis and how to validate?
 1.Students with higher attendance rates are more likely to achieve a higher final grade.
 2.Increased social media content is to negatively influence a students’ focus and productivity levels.
-3.Higher levels of Sleep, exercise and regular breaks will reduce the stress levels among students.
+3.Higher levels of Sleep and exercise will reduce the stress levels among students.
 
 
 ## Project Plan
