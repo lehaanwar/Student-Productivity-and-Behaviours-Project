@@ -59,10 +59,15 @@ Validation: Heatmap
 Results: Disapproved: The heatmap shows that the value 0.0026 is very close to 0, indicating that there is no correlation between these two variables.
 
 HYP4: Null Hypothesis H0:  There is no difference in the final grades of students who study less than four hours per day than those who study more than four hours.
+
 Alternate Hypotheis Hₐ : Students who study more than four hours per day will have a have a higher final grade.
+
 Validation: T-test
+
 Result: T-statistic: -1.0152027043599512
+
 P-value: 0.31002149386245886
+
 The p-value is 0.31 is greater than 0.05 (standard significance level), we fail to reject the null hypothesis. The data does not provide sufficient evidence.
 
 ## Project Plan
@@ -70,14 +75,19 @@ The p-value is 0.31 is greater than 0.05 (standard significance level), we fail 
 ETL Process – Load the dataset taken from Kaggle into VS code.
 
 Transform the data by the cleaning process; missing values, duplicates and outliers.
+
 Encoded categorical variables using one hot encoder.
+
 Created two new features: Screen time; grouped social media hours, gaming hours, youtube hours and phone usage hours.
+
 Wellness score: grouped sleep hours and exercise time.
 
 Loading the cleaned data in to the appropriate files and folders so it can used for data analysis.
 
-Data Analysis: conducted descriptive statistics such as mean, median, standard deviation. 
+Data Analysis: conducted descriptive statistics such as mean, median, standard deviation.
+
 Visualisation of data: Using scatterplots, boxplots and barplots to identify key correlations between the different variables.
+
 In depth Data Visualisation: Using scatter plots and heatmaps to examine relations and correlations that relate back to my busiess requirements and hypotheses.
 
 Reports:
@@ -86,7 +96,9 @@ Consistently reported progress and maintained comprehensive documentation throug
 ## Analysis techniques used
 
 Structured approach: I structured the data analysis technique by following the module handbook and going through each criteria to add to my project, this included reviewing each section. By adhering to the handbook's guidance, I was able to incorporate all necessary elements and maintain consistency throughout the analysis process.
+
 Data limitations: The data did not present any limitations; however, it could have been more of a challenge. There were no missing values or duplicates, which streamlined the data cleaning process. Additionally, there was only one categorical variable which I could not conduct in-depth analysis on categorical data.
+
 Generative AI: I used AI to help with the code and ideas which helped me immensely throughout this project.
 
 ## Ethical considerations
@@ -132,8 +144,10 @@ While working through the core concepts, a hypothesis was revised and another wa
 
 ## Learning Journey and Reflections
 
-I will learn new features and designs on PowerBI to make the dashboard more dynamic and extensive. 
+I will learn new features and designs on PowerBI to make the dashboard more dynamic and extensive.
+
 I will learn best practices for next project.
+
 In reflection, I realised that my initial preparation and time management could have been improved. While I did make efforts to plan my approach, I found that I spent too much time before actually executing the tasks. To organize my thoughts and lay out a clear path, I utilised both my notebook and a Word document to draft a plan for preparing my project and outlining the features for the dashboard. Despite this planning, I feel that I could have benefited from acting more promptly and efficiently. This reflection highlights the importance of not only planning ahead but also ensuring that the plan is implemented in a timely manner.
 
 ## Main Data Analysis Libraries
@@ -148,7 +162,9 @@ PowerBI – used for Dashboard.
 ## Credits/Content
 
 The dataset was taken from Kaggle - Student Productivity & Behavior Dataset (20K)
+
 The explanation and code was taken for feature engineering was taken from One Hot Encoding in Machine Learning - GeeksforGeeks
+
 The invisible character used in my Dashboard was taken from Invisible Character 
 https://www.editpad.org/tool/invisible-character
 
