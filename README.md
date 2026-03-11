@@ -154,10 +154,15 @@ https://www.editpad.org/tool/invisible-character
 
 Instructions on how to create a navigation menu was taken from https://youtu.be/-GCV4LvPMW0?si=4Nw9dr73c6wEZY4S
 
-Understanding and creating the code for K-means clustering were inspired  by Learning Model Building in Scikit-learn - GeeksforGeeks
-2.3. Clustering — scikit-learn 1.8.0 documentation
-Python Machine Learning - K-means
-Code Institute - Advanced Data Analysis Techniques
+Understanding and creating the code for K-means clustering were inspired by:
+https://www.geeksforgeeks.org/machine-learning/k-means-clustering-introduction/#google_vignette
+
+[2.3. Clustering — scikit-learn 1.8.0 documentation](https://scikit-learn.org/stable/modules/clustering.html)
+
+[Python Machine Learning - K-means](https://www.w3schools.com/python/python_ml_k-means.asp)
+
+[Code Institute - Advanced Data Analysis Techniques](https://lms.codeinstitute.net/learner_module/show/118491?lesson_id=506369&section_id=1920594)
+
 To reinforce my understanding of key concepts, I utilized the Learning Management System (LMS) to revisit certain topics. This process allowed me to refresh my memory and ensure a stronger grasp of relevant material needed for the project.
 
 ### Media
@@ -166,4 +171,4 @@ No external media used.
 
 ## Acknowledgements
 
-* I would like to thank my course coordinators, Vasi and Mark for providing help in preparing the project and support through this project.
+I would like to thank my course coordinators, Vasi and Mark for providing help in preparing the project and support through this project.
